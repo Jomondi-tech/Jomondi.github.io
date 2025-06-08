@@ -57,7 +57,7 @@ iv.	Compiled Daily and Weekly Reports: Prepared and submitted comprehensive dail
 
 ## 🏅 Certifications
 
-- **Cisco Certified Network Associate (CCNA)* 
+- **Cisco Certified Network Associate (CCNA)** 
   Cisco – Ongoing  
   *Core networking, routing & switching, IPv4/IPv6, OSPF, and network security*
 
