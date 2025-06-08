@@ -48,7 +48,7 @@ Hi there 👋 — I'm Jacob, a Network Engineer and MSc Cybersecurity student fr
 ## 💬 Let’s Connect
 
 - 🔗 [LinkedIn](https://linkedin.com/in/jacob_omondi)
-- 📹 [YouTube: CivicStack](https://youtube.com/CivicStack_KE)
+- 📹 [YouTube: CivicStack_KE](https://youtube.com/CivicStack_KE)
 
 ---
 
