@@ -45,12 +45,13 @@ Multimedia University of Kenya, September 2019 - November 2024
 - Supported preventive fiber maintenance and ISP-grade link troubleshooting.
 - Deployed and tested monitoring with Nagios, Zabbix, Grafana, and Cacti.
 
-### 👨‍💻 Student Attachee – NTelecommunications Engineer  
+### 👨‍💻 Student Attachee – Telecommunications Engineer  
 **Innovis Telecom & Network Consultancy** | Sept 2023 – Dec 2024  
-- Diagnosed fiber faults using OTDR and restored wireless links.
-- Commissioned Ubiquiti Rocket Prism radios and configured monitoring via Nagios.
-- Supported preventive fiber maintenance and ISP-grade link troubleshooting.
-- Deployed and tested monitoring with Nagios, Zabbix, Grafana, and Cacti.
+i.	Maintained Base Transceiver Stations (BTS):  Ensured the continuous operation and optimal performance of Base Transceiver Stations (BTS) by conducting regular inspections, preventative maintenance, and troubleshooting activities.   
+ii.	Monitored Site Equipment Performance: Proactively monitored the performance of site equipment, including BTS, power systems, and transmission links, utilizing remote monitoring tools and on-site inspections.  
+iii.	Responded to Network Faults and Executed Planned Maintenance: Responded promptly and effectively to network faults, utilizing diagnostic tools and technical expertise to isolate and resolve issues.   
+iv.	Compiled Daily and Weekly Reports: Prepared and submitted comprehensive daily and weekly reports detailing network performance, maintenance activities, and incident summaries.  
+
 
 ---
 
