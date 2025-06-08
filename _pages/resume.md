@@ -1,3 +1,10 @@
+---
+layout: page
+title: Resume
+permalink: /resume/
+---
+
+
 # 💼 Jomondi – Network Engineer | MSc Cybersecurity Student
 
 ---
