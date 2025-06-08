@@ -39,7 +39,14 @@ Multimedia University of Kenya, September 2019 - November 2024
 ## 💼 Experience
 
 ### 👨‍💻 Graduate Intern – Network Engineer  
-**KENET (Kenya Education Network Trust)** | * Oct 2024 – Present*  
+**KENET (Kenya Education Network Trust)** | Oct 2024 – Present
+- Diagnosed fiber faults using OTDR and restored wireless links.
+- Commissioned Ubiquiti Rocket Prism radios and configured monitoring via Nagios.
+- Supported preventive fiber maintenance and ISP-grade link troubleshooting.
+- Deployed and tested monitoring with Nagios, Zabbix, Grafana, and Cacti.
+
+### 👨‍💻 Student Attachee – NTelecommunications Engineer  
+**Innovis Telecom & Network Consultancy** | Sept 2023 – Dec 2024  
 - Diagnosed fiber faults using OTDR and restored wireless links.
 - Commissioned Ubiquiti Rocket Prism radios and configured monitoring via Nagios.
 - Supported preventive fiber maintenance and ISP-grade link troubleshooting.
