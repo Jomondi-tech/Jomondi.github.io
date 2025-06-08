@@ -55,6 +55,29 @@ iv.	Compiled Daily and Weekly Reports: Prepared and submitted comprehensive dail
 
 ---
 
+## 🏅 Certifications
+
+- **Cisco Certified Network Associate (CCNA)* 
+  Cisco – Ongoing  
+  *Core networking, routing & switching, IPv4/IPv6, OSPF, and network security*
+
+- Huawei Datacom v1.0
+  Huawei Academy - 2024
+
+- **Introduction to Cybersecurity**  
+  Cisco Networking Academy – *2024*  
+  *Cybersecurity concepts, threat analysis, and security principles*
+
+- **Linux Essentials**  
+  Internet Society – *2024*  
+  *Basic Linux commands, file systems, and system administration*
+
+- **NBasics of Network Layer Protocol**  
+  Huawei Networking Academy – *2024*  
+
+
+---
+
 ## 🚀 Projects
 
 ### 🖥️ **Home Network Monitoring Lab**  
