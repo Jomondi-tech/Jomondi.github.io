@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ouma Jacob Omondi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Network Engineer | MSc Cybersecurity Student | Passionate about Internet Infrastructure, Open Source, and ICT Policy in Kenya 🇰🇪."
+  bio    : "Network Engineer, MSc Cybersecurity Student, passionate about Internet Infrastructure, Open Source, and ICT Policy in Kenya 🇰🇪."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
