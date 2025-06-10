@@ -65,5 +65,5 @@ Arduino, LDR sensors, C/C++, Electronic circuitry
 
 ---
 
-📌 *Want to learn more about any of these projects or see the code? Feel free to [contact me](/contact/) or check my [GitHub](https://github.com/jomondi).*
+📌 *Want to learn more about any of these projects or see the code? Feel free to [contact me](/contact/) or check my [GitHub](https://github.com/Jomondi-tech).*
 
