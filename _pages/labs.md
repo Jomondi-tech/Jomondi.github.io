@@ -28,7 +28,8 @@ Learn how to analyze network traffic to identify and interpret key communication
 
 **Screenshots:**  
 *Include your own if applicable, e.g., packet filter views, credential capture, stream follow output*  
-`assets/htb.png`
+![Hack the box completion](/assets/htb.png)
+
 
 **Key Lessons Learned:**  
 - Developed fluency with Wireshark’s interface and filtering syntax.  
