@@ -2,8 +2,7 @@
 Electrical and Telecommunication Engineer
 ---
 
-Hi there! I'm Winjoy Ntinyari, an Electrical and Telecommunication Engineer with hands-on experience in transmission networks, DWDM, IP RAN and critical network infrastructure. I’ve interned at Safaricom, Kenya Pipeline Company, and Kenya Power. Alongside my engineering experience, I’m actively upskilling in cloud computing, with a focus on AWS Cloud, networking in cloud environments and cloud security, aligning my interests in network infrastructure with the evolving landscape of modern, scalable systems.
-
+Hi there 👋 — I’m Jacob, a Network Engineer and MSc Cybersecurity student from Kenya. I hold a First-Class Honours degree in Electrical and Telecommunications Engineering from Multimedia University of Kenya, and I’m currently building real-world experience through internships and lab work focused on enterprise networking, monitoring, and infrastructure.
 ---
 
 ## 📄 [View My Resume](/assets/JACOB_OMONDI_RESUME.pdf)
