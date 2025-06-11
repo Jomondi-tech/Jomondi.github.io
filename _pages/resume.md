@@ -106,6 +106,10 @@ iv.	Compiled Daily and Weekly Reports: Prepared and submitted comprehensive dail
 
 ---
 
+## 📄 [View My Resume](/assets/JACOB_OMONDI_RESUME.pdf)
+
+---
+
 ## 📫 Contact
 
 I'm open to collaboration, mentorship, or discussions around NRENs, open networking, and Kenya’s tech ecosystem.
