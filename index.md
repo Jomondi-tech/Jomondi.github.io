@@ -1,5 +1,5 @@
 
-Ouma Jacob Omondi -Electrical and Telecommunication Engineer
+Electrical and Telecommunication Engineer
 ---
 
 Hi there! I'm Winjoy Ntinyari, an Electrical and Telecommunication Engineer with hands-on experience in transmission networks, DWDM, IP RAN and critical network infrastructure. I’ve interned at Safaricom, Kenya Pipeline Company, and Kenya Power. Alongside my engineering experience, I’m actively upskilling in cloud computing, with a focus on AWS Cloud, networking in cloud environments and cloud security, aligning my interests in network infrastructure with the evolving landscape of modern, scalable systems.
