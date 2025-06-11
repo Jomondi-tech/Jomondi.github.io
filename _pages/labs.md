@@ -43,25 +43,31 @@ Learn how to analyze network traffic to identify and interpret key communication
 
 ---
 
-## 🔐 Lab 2: Hardening a Linux Server
+## 🧪 Lab 2: Examine TCP/IP and OSI Models in Action
 
 **Problem Statement:**  
-Secure an Ubuntu web server against common attack vectors using system hardening best practices.
+To gain a deeper understanding of how the TCP/IP and OSI networking models operate in real-world scenarios by capturing and analyzing network traffic. The goal was to identify and map data flows to their corresponding layers and understand the interaction between protocols.
 
 **Approach:**  
-- Configured UFW firewall and blocked all non-essential ports.
-- Installed and configured Fail2ban to mitigate brute-force login attempts.
-- Removed default Apache modules and updated system packages.
+- Used **Wireshark** to capture live traffic on my local machine while browsing the web and using other network services.  
+- Identified protocol types (e.g., Ethernet, IP, TCP, HTTP) and matched them to OSI layers.  
+- Followed TCP streams to understand connection setup (three-way handshake), data transmission, and teardown.  
+- Compared the TCP/IP model's 4 layers with the OSI model’s 7 layers using actual packet data.
 
 **Tools Used:**  
-Ubuntu Server, Apache2, UFW, Fail2ban, SSH
+- Wireshark  
+- Mozilla Firefox / Chrome  
+- Linux Terminal  
+- Ping, Traceroute, and Netstat utilities  
 
 **Screenshots:**  
-![Fail2Ban Configuration](../assets/images/lab2-fail2ban.png)
+![OSI Model Packet Analysis](/assets/images/lab2-osi-model-traffic.png)
 
 **Key Lessons Learned:**  
-- Learned how to reduce the attack surface of a public server.
-- Understood basic intrusion prevention and log analysis.
+- Understood the real-time application of theoretical network models through packet analysis.  
+- Mapped various protocols (e.g., ARP, DNS, TCP, HTTP) to OSI and TCP/IP model layers.  
+- Gained hands-on experience in interpreting packet headers and payloads.  
+- Reinforced how data encapsulation and de-encapsulation occur across layers during transmission.
 
 ---
 
