@@ -1,7 +1,4 @@
 
-layout: single
-author_profile: true
----
 Ouma Jacob Omondi -Electrical and Telecommunication Engineer
 ---
 
