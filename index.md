@@ -11,7 +11,7 @@ Hi there! I'm Winjoy Ntinyari, an Electrical and Telecommunication Engineer with
 
 ---
 
-## 📄 [View My Resume](/assets/files/Winjoy_Ntinyari_Resume_.pdf)
+## 📄 [View My Resume](/assets/assets/JACOB_OMONDI_RESUME.pdf)
 
 ---
 
