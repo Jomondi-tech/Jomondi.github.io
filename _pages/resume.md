@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
 
-# 💼 Jomondi – Network Engineer | MSc Cybersecurity Student
+# 💼 Jacob Omondi – Network Engineer | MSc Cybersecurity Student
 
 ---
 
