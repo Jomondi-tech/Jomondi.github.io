@@ -71,22 +71,31 @@ To gain a deeper understanding of how the TCP/IP and OSI networking models opera
 
 ---
 
-## 🔑 Lab 3: SSH Key Authentication and Root Access Restrictions
+## 🧪 Lab 3: Use Wireshark to Examine Network Traffic
 
 **Problem Statement:**  
-Replace password-based SSH login with key-based authentication to improve remote access security.
+To analyze and interpret raw network traffic using Wireshark, with the aim of understanding how data is transmitted over the network, identifying different types of packets, and correlating captured traffic with common protocols and services.
 
 **Approach:**  
-- Generated SSH key pair using `ssh-keygen`.
-- Copied the public key to the server using `ssh-copy-id`.
-- Disabled password authentication and root login in `/etc/ssh/sshd_config`.
+- Launched Wireshark and captured network traffic on my active network interface while performing common activities like web browsing, pinging, and accessing DNS.
+- Applied filters to isolate specific protocols such as `icmp`, `dns`, `http`, and `tcp`.
+- Inspected packet headers to examine source/destination IPs, ports, flags (like SYN, ACK), and payload data.
+- Traced packet sequences to study connection initiation, data transfer, and session termination.
 
 **Tools Used:**  
-SSH, Linux CLI, OpenSSH
+- Wireshark  
+- Linux Terminal  
+- Browser  
+- ping, nslookup, curl, and netstat commands
+
+**Screenshots:**  
+![Wireshark Traffic Analysis](/assets/images/lab3-wireshark-analysis.png)
 
 **Key Lessons Learned:**  
-- Improved understanding of secure remote administration.
-- Learned how to troubleshoot SSH access and configuration.
+- Learned how to effectively navigate and filter traffic within Wireshark.  
+- Understood the packet structure and key header information for TCP, UDP, and ICMP.  
+- Gained confidence in correlating captured traffic with real-world activities like browsing or DNS resolution.  
+- Recognized the importance of packet analysis in network troubleshooting and cybersecurity monitoring.
 
 ---
 
