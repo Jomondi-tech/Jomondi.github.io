@@ -1,9 +1,5 @@
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: single
-author_profile: true
----
+
+
 Ouma Jacob Omondi -Electrical and Telecommunication Engineer
 ---
 
@@ -11,7 +7,7 @@ Hi there! I'm Winjoy Ntinyari, an Electrical and Telecommunication Engineer with
 
 ---
 
-## 📄 [View My Resume](/assets/assets/JACOB_OMONDI_RESUME.pdf)
+## 📄 [View My Resume](/assets/JACOB_OMONDI_RESUME.pdf)
 
 ---
 
