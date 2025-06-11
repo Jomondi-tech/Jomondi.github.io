@@ -97,21 +97,7 @@ To analyze and interpret raw network traffic using Wireshark, with the aim of un
 - Gained confidence in correlating captured traffic with real-world activities like browsing or DNS resolution.  
 - Recognized the importance of packet analysis in network troubleshooting and cybersecurity monitoring.
 
----
 
-## 🧠 Ongoing CTF Challenges (Personal Labs)
-
-**Examples:**  
-- Web-based login bypass using SQL injection
-- Basic reverse engineering of encoded strings in Python
-- Port scanning and enumeration of vulnerable boxes in local lab
-
-**Tools Used:**  
-Burp Suite, nmap, sqlmap, Python, netcat
-
-**Key Lessons Learned:**  
-- Each challenge sharpens analytical thinking.
-- Reinforced core skills in information gathering and exploitation.
 
 ---
 
