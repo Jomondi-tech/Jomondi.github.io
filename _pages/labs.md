@@ -10,25 +10,35 @@ As part of the **Cybershujaa Cloud and Network Security track**, I’ve worked t
 
 ---
 
-## 🔍 Lab 1: Packet Analysis with Wireshark
+## 🌐 Lab 1: HTB Academy – Introduction to Network Traffic Analysis
 
 **Problem Statement:**  
-Understand how the OSI and TCP/IP models function by capturing and analyzing real-time network traffic.
+Learn how to analyze network traffic to identify and interpret key communication protocols and events, forming the foundation for threat detection and incident response.
 
 **Approach:**  
-- Used Wireshark to monitor and filter packets for HTTP, DNS, and ICMP protocols.
-- Identified different OSI layers involved in communication.
-- Tracked the lifecycle of a TCP handshake and DNS query.
+- Completed the HTB Academy module on **Network Traffic Analysis**.
+- Used **Wireshark** to inspect `.pcap` files capturing various types of network activity.
+- Identified TCP three-way handshakes, DNS lookups, HTTP requests, and suspicious patterns (e.g., FTP logins, plaintext credentials).
+- Applied filtering techniques (e.g., `http.request`, `tcp.stream eq 1`) to isolate relevant packets.
 
 **Tools Used:**  
-Wireshark, Linux terminal (ping, curl)
+- Wireshark  
+- HTB Academy Labs  
+- Kali Linux (for optional analysis in terminal)  
 
 **Screenshots:**  
-![TCP Handshake](../assets/images/lab1-tcp-handshake.png)
+*Include your own if applicable, e.g., packet filter views, credential capture, stream follow output*  
+`assets/images/lab1-network-traffic-analysis.png`
 
 **Key Lessons Learned:**  
-- Gained practical experience in dissecting packet headers.
-- Strengthened understanding of protocol-layer interactions.
+- Developed fluency with Wireshark’s interface and filtering syntax.  
+- Understood how attackers can be detected through traffic patterns and anomalies.  
+- Learned to trace entire conversations (TCP streams) and reconstruct data flow.  
+- Recognized the importance of network traffic analysis in SOC and blue team environments.
+
+---
+
+✅ *This module deepened my practical understanding of real-time and forensic packet analysis—an essential skill for cybersecurity analysts and network defenders.*
 
 ---
 
