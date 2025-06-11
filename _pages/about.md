@@ -6,7 +6,6 @@ title: "About"
 
 
 
-# About Me
 
 Hi there 👋 — I'm Jacob, a Network Engineer and MSc Cybersecurity student from Kenya. I hold a First-Class Honours degree in Electrical and Telecommunications Engineering from Multimedia University of Kenya, and I’m currently building real-world experience through internships and lab work focused on enterprise networking, monitoring, and infrastructure.
 
